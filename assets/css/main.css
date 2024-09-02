@@ -12,9 +12,9 @@
 /* Colors */
 :root {
   --color-default: #000;
-  --color-primary: #be1e2d;
+  --color-primary: #89bce2;
   --color-secondary: #404041;
-  --color-tertiary: #f29e23;
+  --color-tertiary: #131b76;
 }
 
 /* Smooth scroll behavior */
@@ -2650,4 +2650,3 @@ section {
 .gslide-title {
   font-weight: 600 !important;
 }
-
