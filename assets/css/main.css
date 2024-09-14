@@ -2650,3 +2650,7 @@ section {
 .gslide-title {
   font-weight: 600 !important;
 }
+
+.card-text, .role {
+  color: var(--color-primary);
+}
