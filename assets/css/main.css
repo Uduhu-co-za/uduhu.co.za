@@ -250,12 +250,13 @@ section {
 # Header
 --------------------------------------------------------------*/
 .header {
-  z-index: 997;
-  position: absolute;
   padding: 30px 0;
   top: 0;
   left: 0;
   right: 0;
+  background-color: var(--color-secondary);
+  color: #fff;
+  z-index: 99999999;
 }
 
 .header .logo img {
@@ -1870,6 +1871,7 @@ section {
   position: absolute;
   inset: 0;
   z-index: 2;
+  margin-top: 123.98px;
 }
 
 @media (max-width: 768px) {
