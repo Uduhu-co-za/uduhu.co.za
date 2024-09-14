@@ -1352,6 +1352,7 @@ section {
   background-size: cover;
   background-position: center center;
   min-height: 400px;
+  max-height: 400px;
 }
 
 .values h3 {
