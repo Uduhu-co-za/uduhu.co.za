@@ -344,13 +344,6 @@ section {
     width: 100%;
   }
 
-  .navbar a:hover,
-  .navbar .active,
-  .navbar .active:focus,
-  .navbar li:hover>a {
-    
-  }
-
   .navbar .dropdown ul {
     display: block;
     position: absolute;
@@ -472,13 +465,6 @@ section {
     font-size: 12px;
     line-height: 0;
     margin-left: 5px;
-  }
-
-  .navbar a:hover,
-  .navbar .active,
-  .navbar .active:focus,
-  .navbar li:hover>a {
-    
   }
 
   .navbar .dropdown ul,
@@ -630,7 +616,7 @@ section {
   height: 24px;
   margin: 0 10px -6px 0;
   border: 3px solid #059652;
-  border-top-
+  border-top-color: #fff;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
 }
@@ -1167,7 +1153,6 @@ section {
   border-radius: 4px;
   line-height: 0;
   box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.08);
-  background-
   transition: 0.3s;
 }
 
@@ -1241,7 +1226,6 @@ section {
   border-radius: 4px;
   line-height: 0;
   box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.08);
-  background-
   transition: 0.3s;
 }
 
@@ -1315,7 +1299,6 @@ section {
   border-radius: 4px;
   line-height: 0;
   box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.08);
-  background-
   transition: 0.3s;
 }
 
@@ -1390,7 +1373,6 @@ section {
   border-radius: 4px;
   line-height: 0;
   box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.08);
-  background-
   transition: 0.3s;
 }
 
@@ -1711,7 +1693,7 @@ section {
   height: 24px;
   margin: 0 10px -6px 0;
   border: 3px solid #059652;
-  border-top-
+  border-top-color: #fff;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
 }
