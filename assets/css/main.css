@@ -2636,7 +2636,7 @@ section {
   font-weight: 600 !important;
 }
 
-.card-text, .role {
+.card-text span {
   color: var(--color-primary);
 }
 
