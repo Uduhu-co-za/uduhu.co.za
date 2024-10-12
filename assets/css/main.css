@@ -900,6 +900,10 @@ section {
   overflow: hidden;
 }
 
+.portfolio-item {
+  height: 475.5px;
+}
+
 /*--------------------------------------------------------------
 # Testimonials Section
 --------------------------------------------------------------*/
@@ -2634,10 +2638,6 @@ section {
 
 .gslide-title {
   font-weight: 600 !important;
-}
-
-.card-text span {
-  color: var(--color-primary);
 }
 
 /*--------------------------------------------------------------
